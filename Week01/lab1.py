@@ -1,5 +1,5 @@
 # Sample Coding Questions 01 Week 01
-# [Your First Name] [Your Last Name]
+# Oluwateniola Ogun
 
 # Question 2: Defining an array (list)
 my_array = [1, 4, 7, 9]
@@ -20,5 +20,5 @@ print("The temperature today is: {:.3f} degrees Celsius".format(temperature))
 
 # Question 5: User Input
 userAge = int(input("Enter your age: "))
-userAge = userAge + 22
+userAge = userAge + 67
 print("Now showing the shop items filtered by age:", userAge)
