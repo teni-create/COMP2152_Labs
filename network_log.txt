@@ -1,0 +1,14 @@
+[2026-02-23 23:32:44] PING 
+Ping failed: Host unreachable or request timed out.----------------------------------------
+[2026-02-23 23:41:54] PING chrome
+Ping failed: Host unreachable or request timed out.----------------------------------------
+[2026-02-23 23:47:25] PING google.com
+PING google.com (192.178.192.100): 56 data bytes
+64 bytes from 192.178.192.100: icmp_seq=0 ttl=113 time=8.350 ms
+64 bytes from 192.178.192.100: icmp_seq=1 ttl=113 time=7.091 ms
+64 bytes from 192.178.192.100: icmp_seq=2 ttl=113 time=6.919 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 6.919/7.453/8.350/0.638 ms
+----------------------------------------
